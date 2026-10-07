@@ -30,8 +30,9 @@ This repository hosts releases of projects developed under OpenForge.
 
 | Application | Description                  | Status    |
 | ----------- | ---------------------------- | --------- |
-| VaultForge  | Open-source password manager | Available |
-| AstraxOS    | Open-source operating system | Planned   |
+| VaultForge  | Open-source password manager | ✅ Available |
+| OpenEdit    | Open-source terminal text editot | ✅ Available |
+| AstraxOS    | Open-source operating system | 🚧 Planned   |
 
 More applications will be added as development progresses.
 
